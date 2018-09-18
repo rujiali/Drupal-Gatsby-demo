@@ -10,7 +10,7 @@ module.exports = {
     {
         resolve: `gatsby-source-drupal`,
         options: {
-            baseUrl: `http://drupal8.docker.amazee.io/`,
+            baseUrl: `http://dev-jl-demo.pantheonsite.io/`,
             apiBase: `jsonapi`, // optional, defaults to `jsonapi`
         },
     },
